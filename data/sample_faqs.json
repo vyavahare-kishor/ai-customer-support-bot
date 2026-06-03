@@ -1,0 +1,29 @@
+{
+  "documents": [
+    {
+      "title": "Refund Policy",
+      "category": "refund",
+      "content": "We offer a 30-day money-back guarantee on all products. To request a refund, contact support@company.com with your order number. Refunds are processed within 5-7 business days back to your original payment method. Sale items are non-refundable."
+    },
+    {
+      "title": "Shipping Information",
+      "category": "shipping",
+      "content": "Standard shipping takes 5-7 business days. Express shipping takes 2-3 business days. Free standard shipping on orders over $50. We ship to all 50 US states and 30+ countries internationally. Orders placed before 2pm EST ship the same day."
+    },
+    {
+      "title": "Account Password Reset",
+      "category": "account",
+      "content": "To reset your password, click 'Forgot Password' on the login page and enter your email. You will receive a reset link within 5 minutes. The link expires after 24 hours. If you don't receive the email, check your spam folder or contact support."
+    },
+    {
+      "title": "Cancellation Policy",
+      "category": "refund",
+      "content": "Orders can be cancelled within 1 hour of placement. After 1 hour, the order enters processing and cannot be cancelled. If your order has shipped, you will need to initiate a return after delivery. Contact support immediately if you need to cancel."
+    },
+    {
+      "title": "Product Warranty",
+      "category": "warranty",
+      "content": "All products come with a 1-year manufacturer warranty covering defects in materials and workmanship. The warranty does not cover damage from misuse, accidents, or normal wear. To make a warranty claim, contact support with proof of purchase and photos of the defect."
+    }
+  ]
+}

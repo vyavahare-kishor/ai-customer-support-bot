@@ -395,8 +395,8 @@ Part of an AI-native engineering portfolio built while transitioning from Ruby o
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**ai-native-journey**](https://github.com/yourusername/ai-native-journey) | FastAPI foundation — REST API + AI chat + SSE streaming | FastAPI, PostgreSQL, Groq |
-| [**ai-pr-reviewer**](https://github.com/yourusername/ai-pr-reviewer) | AI-powered GitHub PR code reviewer | FastAPI, GitHub API, LLaMA |
+| [**ai-native-journey**](https://github.com/vyavahare-kishor/ai-native-journey) | FastAPI foundation — REST API + AI chat + SSE streaming | FastAPI, PostgreSQL, Groq |
+| [**ai-pr-reviewer**](https://github.com/vyavahare-kishor/pr-code-reviewer) | AI-powered GitHub PR code reviewer | FastAPI, GitHub API, LLaMA |
 | **ai-customer-support-bot** (this) | RAG pipeline — semantic search + grounded answers | FastAPI, pgvector, sentence-transformers |
 
 ---
